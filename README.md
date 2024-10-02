@@ -1,4 +1,3 @@
-# PRODIGY_DS_Task01
 
 # Population Analysis from 2000-2023: Exploring Global Demographics
 
