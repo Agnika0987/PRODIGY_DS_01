@@ -53,3 +53,8 @@ Tuvalu, Nauru, Palau, British Virgin Islands, Gibraltar, San Marino, Turks and C
 2. **Brazil, Russia, Japan Stagnation:** While other countries experienced significant population increases, Brazil, Russia, and Japan displayed relatively slower growth rates, hinting at demographic challenges.
 3. **India's Growth:** India surpassed China by 2023, becoming the country with the largest population, driven by consistent growth over the two decades.
 4. **Bottom 10 least populated countries :** These countries all have population of less than 50000, with very low growth rates over the years.
+
+# Interpretation of Distribution Curve
+1. The majority of the countries in the dataset have smaller populations, as indicated by the peak in the lower range.
+2. A smaller number of countries have very large populations, as shown by the tail extending to the right.
+3. There are more countries with a slightly higher female population than male, as suggested by the red curve peaking slightly earlier.
